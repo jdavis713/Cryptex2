@@ -12,6 +12,7 @@
 		8B2E656E228DF04D00793BB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2E656C228DF04D00793BB1 /* Main.storyboard */; };
 		8B2E6570228DF05200793BB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B2E656F228DF05200793BB1 /* Assets.xcassets */; };
 		8B2E6573228DF05200793BB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B2E6571228DF05200793BB1 /* LaunchScreen.storyboard */; };
+		8B2E657B228DF22200793BB1 /* CryptexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B2E657A228DF22200793BB1 /* CryptexViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8B2E656F228DF05200793BB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B2E6572228DF05200793BB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B2E6574228DF05200793BB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B2E657A228DF22200793BB1 /* CryptexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CryptexViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8B2E6568228DF04D00793BB1 /* AppDelegate.swift */,
 				8B2E656A228DF04D00793BB1 /* ViewController.swift */,
 				8B2E656C228DF04D00793BB1 /* Main.storyboard */,
+				8B2E657A228DF22200793BB1 /* CryptexViewController.swift */,
 				8B2E656F228DF05200793BB1 /* Assets.xcassets */,
 				8B2E6571228DF05200793BB1 /* LaunchScreen.storyboard */,
 				8B2E6574228DF05200793BB1 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				8B2E656B228DF04D00793BB1 /* ViewController.swift in Sources */,
 				8B2E6569228DF04D00793BB1 /* AppDelegate.swift in Sources */,
+				8B2E657B228DF22200793BB1 /* CryptexViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
